@@ -18,7 +18,7 @@ jobs:
 
       - name: Build project
         env:
-          CI: false
+          CI: true
         run: npm run build
 
       - name: Deploy to Firebase Hosting
