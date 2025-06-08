@@ -52,7 +52,7 @@ export default function Dashboard() {
               <CardIcon color="warning">
                 <Icon>content_copy</Icon>
               </CardIcon>
-              <p className={classes.cardCategory}>67130832 Kristian Nemblanc -</p>
+              <p className={classes.cardCategory}>67130832 Kristian Nemblanc</p>
               <h3 className={classes.cardTitle}>
                 49/50 <small>GB</small>
               </h3>
